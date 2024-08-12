@@ -1,2 +1,3 @@
 test application
-print{"happy"}
+print("happy")
+print ('test2')
